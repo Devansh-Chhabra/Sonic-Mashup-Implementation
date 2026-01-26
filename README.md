@@ -76,15 +76,6 @@ python 102317041.py <SingerName> <NumberOfVideos> <AudioDuration> <OutputFileNam
 
 ---
 
-## 📦 Dependencies
-
-- `streamlit`: For the web interface.
-- `pydub` & `ffmpeg`: For audio processing.
-- `yt-dlp`: For scraping
-- `python-dotenv`: For managing secure credentials.
-
----
-
 
 ## 📜 License
 
