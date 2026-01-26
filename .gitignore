@@ -1,0 +1,6 @@
+# --- Project Specific (Audio/Temp) ---
+temp_downloads/
+*.mp3
+*.zip
+mashup_*.mp3
+mashup_*.zip
